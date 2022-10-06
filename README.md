@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![](https://github-readme-stats.vercel.app/api?username=ryusei-S&count_private=true)](https://github.com/ryusei-S)
 -->
 
-[![Ryusei Sugano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryusei-S&count_private=true)](https://github.com/ryusei-S)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusei-S&langs_count=8&count_private=true)](https://github.com/ryusei-S)
--->
+[![](https://raw.githubusercontent.com/ryusei-S/ryusei-S/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/ryusei-S)
+[![](https://raw.githubusercontent.com/ryusei-S/ryusei-S/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/ryusei-S)
+[![](https://raw.githubusercontent.com/ryusei-S/ryusei-S/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/ryusei-S)
+
 
